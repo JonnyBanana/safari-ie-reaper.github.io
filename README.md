@@ -2,4 +2,4 @@
 
 https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
-(https://i.imgur.com/3Cz0sof.png)
+![Alt text](https://github.com/JonnyBanana/safari-ie-reaper.github.io/blob/master/img/trolling%20studios.JPG)
