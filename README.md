@@ -19,7 +19,7 @@ and some user he says it also works on Ubuntu, but I do not know what browser it
 Don't works on Chrome, Opera and Mozilla (I wonder why it does not surprise me ....)</BR>
 On iPhone and Mac (and Ubuntu maybe) restart also the the machine.
 
-test at your risk here: https://jonnybanana.github.io/safari-ie-reaper.github.io/
+Test at your risk here: https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
 
 
