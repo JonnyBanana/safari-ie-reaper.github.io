@@ -17,7 +17,7 @@ The page would be this:
 The Exploit it works on Safari and IE (and i think Edge) on Windows, Safari (Mac iPhone, iPad etc.),</BR>
 and some user he says it also works on Ubuntu, but I do not know what browser it is...</BR>
 Don't works on Chrome, Opera and Mozilla (I wonder why it does not surprise me ....)</BR>
-In practice with this technique you can crash the browser </BR>
+In practice with this technique you can crash the browser, </BR>
 regardless of whether it is on PC, smartphone, etc</BR>
 On iPhone and Mac (and Ubuntu maybe) restart also the the machine.
 
