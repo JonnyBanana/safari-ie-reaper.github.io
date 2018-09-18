@@ -19,17 +19,9 @@ and some user he says it also works on Ubuntu, but I do not know what browser it
 Don't works on Chrome, Opera and Mozilla (I wonder why it does not surprise me ....)</BR>
 On iPhone and Mac (and Ubuntu maybe) restart also the the machine.
 
-Test at your risk here: https://jonnybanana.github.io/safari-ie-reaper.github.io/
-
-ie
-
-![Alt text](https://github.com/JonnyBanana/safari-ie-reaper.github.io/blob/master/img/ie-crash.JPG)
-
-</BR>
-
-safari
-
 ![Alt text](https://github.com/JonnyBanana/safari-ie-reaper.github.io/blob/master/img/safari-crash.JPG)
+
+Test at your risk here: https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
 
 
