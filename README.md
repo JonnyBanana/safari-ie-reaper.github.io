@@ -28,6 +28,9 @@ On iPhone and Mac (and Ubuntu maybe) can also restart the the machine.
 
 </BR>
 
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/safari-ie-reaper.github.io/master/img/DANGER!!!!.jpg)
+
 Test at your risk here: https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
 here i have put on the site the original version make by pwnsdx:</BR>
