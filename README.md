@@ -14,7 +14,7 @@ The page would be this:
 
 ![Alt text](https://github.com/JonnyBanana/safari-ie-reaper.github.io/blob/master/img/trolling%20studios.JPG)
 
-The Exploit it works on Safari and IE on Windows, Safari (Mac iPhone, iPad etc.),</BR>
+The Exploit it works on Safari and IE (and i think Edge) on Windows, Safari (Mac iPhone, iPad etc.),</BR>
 and some user he says it also works on Ubuntu, but I do not know what browser it is...</BR>
 Don't works on Chrome, Opera and Mozilla (I wonder why it does not surprise me ....)</BR>
 On iPhone and Mac (and Ubuntu maybe) restart also the the machine.
