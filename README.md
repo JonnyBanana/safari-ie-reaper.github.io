@@ -1,2 +1,3 @@
-# safari-ie-reaper
-http://jonnybanana.github.io/safari-ie-reaper
+# safari-ie-reaper.github.io
+
+https://jonnybanana.github.io/safari-ie-reaper.github.io/
