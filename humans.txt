@@ -1,5 +1,5 @@
 /* TEAM */
-Your title: Nicolò Saporito, Sappoh Sama Workshop, WebChain Solutions
+Your title: NicolÃ² Saporito, Sappoh Sama Workshop, WebChain Solutions
 Site:jonnybanana.github.io, www.webchain.info
 Mail: howtohackitalia@gmail.com, sappohsamaworkshop@gmail.com, jonnybanana@protonmail.com, jonnybanana@pm.me
 Youtube: http://www.youtube.com/c/HowToHackItalia,  http://www.youtube.com/c/SappohSamaWorkshop
@@ -20,7 +20,7 @@ Location: Bologna, Italy.
  
 
 /* SITE'S E ALGHORITMS*/
-Last update: 2018/8/30
+Last update: 2018/9/18
 Standards: HTML5, CSS3, SASS, PYTHON, LESS, JAVASCRIPT, POWERSHELL, BATCH, PUG, RUBY, ESOLANGS (ASCIIDOTS, PIET, EMOJICODE)
 Software: Notepad++, Photoshop, illustrator, Premiere, Git, Koala, Shell/all.
 
