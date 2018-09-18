@@ -21,6 +21,9 @@ Don't works on Chrome, Opera and Mozilla (I wonder why it does not surprise me .
 In practice with this technique you can crash the browser, </BR>
 regardless of whether it is on PC, smartphone, etc.</BR>
 On iPhone and Mac (and Ubuntu maybe) can also restart the the machine.
+</BR>
+The original version used a background encoded image in base64,</BR>
+i have instead used a normal url to make the code easier to study
 
 </BR>
 
