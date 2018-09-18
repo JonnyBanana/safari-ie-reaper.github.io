@@ -30,5 +30,6 @@ On iPhone and Mac (and Ubuntu maybe) can also restart the the machine.
 
 Test at your risk here: https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
-
+here i have put on the site the original version make by pwnsdx: 
+https://jonnybanana.github.io/safari-ie-reaper.github.io/Original_Version
 
