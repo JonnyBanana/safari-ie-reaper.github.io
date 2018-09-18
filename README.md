@@ -5,10 +5,9 @@ https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
 I've created this simple HTML page to test the CSS webkit filter DoS attack created by pwnsdx
 
-Original git here: https://gist.github.com/pwnsdx/ce64de2760996a6c432f06d612e33aea
-
-
 Original Tweet here: https://twitter.com/pwnsdx/status/1040944750973595649?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1040944750973595649%7Ctwgr%5E373939313b636f6e74726f6c&ref_url=https%3A%2F%2Flatesthackingnews.com%2F2018%2F09%2F17%2Fa-css-based-web-attack-can-restart-your-iphone-or-freeze-your-mac%2F
+
+Original git here: https://gist.github.com/pwnsdx/ce64de2760996a6c432f06d612e33aea
 
 The page would be this:
 
