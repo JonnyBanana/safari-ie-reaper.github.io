@@ -3,7 +3,7 @@
 https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
 
-I've created this simple page to test the CSS webkit filter DoS created by pwnsdx
+I've created this simple HTML page to test the CSS webkit filter DoS created by pwnsdx
 
 Original git here: https://gist.github.com/pwnsdx/ce64de2760996a6c432f06d612e33aea
 
