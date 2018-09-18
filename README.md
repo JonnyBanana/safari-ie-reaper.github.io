@@ -23,7 +23,7 @@ regardless of whether it is on PC, smartphone, etc.</BR>
 On iPhone and Mac (and Ubuntu maybe) can also restart the the machine.</BR>
 </BR>
 The original version used a background encoded image in base64,</BR>
-i have instead used a normal url to make the code easier to study
+i have instead used a normal url to make the code easier to study.
 
 </BR>
 
