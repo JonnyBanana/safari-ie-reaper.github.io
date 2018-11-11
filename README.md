@@ -38,3 +38,6 @@ Test at your risk here: https://jonnybanana.github.io/safari-ie-reaper.github.io
 Here instead i have put on the site the original version make by pwnsdx:</BR>
 https://jonnybanana.github.io/safari-ie-reaper.github.io/Original_Version
 
+![Alt text](https://github.com/JonnyBanana/safari-ie-reaper.github.io/blob/master/img/trolling%20studios.JPG)
+
+
