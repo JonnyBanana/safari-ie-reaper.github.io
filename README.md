@@ -46,6 +46,5 @@ I also made a short video showing the bug, just click on the image below:
 " target="_blank"><img src="https://raw.githubusercontent.com/JonnyBanana/safari-ie-reaper.github.io/master/img/css-webkit-filter-yt.JPG" 
 alt="Safari-IE-Reaper" width="600" height="450" border="100" /></a> 
 
-![Alt text]()
 
 
