@@ -42,6 +42,10 @@ https://jonnybanana.github.io/safari-ie-reaper.github.io/Original_Version
 
 I also made a short video showing the bug, just click on the image below:
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/safari-ie-reaper.github.io/master/img/css-webkit-filter-yt.JPG)
+<a href="https://www.youtube.com/watch?v=G1jr4DVWg8s
+" target="_blank"><img src="https://raw.githubusercontent.com/JonnyBanana/safari-ie-reaper.github.io/master/img/css-webkit-filter-yt.JPG" 
+alt="Safari-IE-Reaper" width="600" height="450" border="100" /></a> 
+
+![Alt text]()
 
 
