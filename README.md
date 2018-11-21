@@ -40,6 +40,8 @@ https://jonnybanana.github.io/safari-ie-reaper.github.io/Original_Version
 
 </br>
 
+I also made a short video showing the bug, just click on the image below:
+
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/safari-ie-reaper.github.io/master/img/css-webkit-filter-yt.JPG)
 
 
