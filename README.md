@@ -1,6 +1,5 @@
 # safari-ie-reaper.github.io
 
-https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
 
 I've created this simple HTML page to test the CSS webkit filter DoS attack created by pwnsdx
